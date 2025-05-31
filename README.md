@@ -1,5 +1,5 @@
 # 💫 About Me:
- Full Stack Python Developer<br> Innovative and results-driven Full Stack Python Developer with hands-on experience building impactful projects.<br> Proficient in developing end-to-end web applications using modern frameworks like Django, Flask, and React.<br> Currently exploring machine learning to design smarter, data-driven solutions. Passionate about technology,<br> continuously learning, and eager to tackle complex challenges to drive meaningful outcomes
+ Full Stack Developer<br> Innovative and results-driven Full Stack Developer with hands-on experience building impactful projects.<br> Proficient in developing end-to-end web applications using modern frameworks .<br> Currently exploring machine learning to design smarter, data-driven solutions. Passionate about technology,<br> continuously learning, and eager to tackle complex challenges to drive meaningful outcomes
 
 
 ## 🌐 Socials:
