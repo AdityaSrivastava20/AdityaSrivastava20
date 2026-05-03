@@ -1,5 +1,49 @@
 # 💫 About Me:
- Full Stack Developer<br> Innovative and results-driven Full Stack Developer with hands-on experience building impactful projects.<br> Proficient in developing end-to-end web applications using modern frameworks .<br> Currently exploring machine learning to design smarter, data-driven solutions. Passionate about technology,<br> continuously learning, and eager to tackle complex challenges to drive meaningful outcomes
+## 👋 Hi, I'm Aditya Srivastava
+
+🎯 Aspiring Machine Learning Engineer with a strong foundation in **Python, SQL, and Data Analysis**.  
+I enjoy solving real-world problems using data and continuously improving my skills through hands-on projects.
+
+---
+
+## 🚀 What I'm Working On
+- Building Machine Learning projects from scratch  
+- Practicing Data Structures & Algorithms  
+- Exploring Backend Development concepts  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, Matplotlib  
+- **Tools:** Git, GitHub, VS Code  
+- **Core Concepts:** Machine Learning, DBMS, Data Analysis  
+
+---
+
+## 📌 Projects
+- 🔹 Machine Learning Projects (Prediction, Classification)
+- 🔹 SQL-Based Data Analysis
+- 🔹 Python Automation Scripts  
+
+👉 Check out my repositories to see my work!
+
+---
+
+## 📈 Goals
+- Become a skilled Machine Learning Engineer  
+- Contribute to open-source projects  
+- Build impactful real-world applications  
+
+---
+
+## 📫 Connect with Me
+- GitHub: https://github.com/AdityaSrivastava20  
+- LinkedIn: (Add your LinkedIn link here)
+
+---
+
+⭐ *Always learning, always building.*
 
 
 ## 🌐 Socials:
