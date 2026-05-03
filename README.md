@@ -39,7 +39,7 @@ I enjoy solving real-world problems using data and continuously improving my ski
 
 ## 📫 Connect with Me
 - GitHub: https://github.com/AdityaSrivastava20  
-- LinkedIn: (Add your LinkedIn link here)
+- LinkedIn: https://www.linkedin.com/in/aditya-srivastava-7544a4233/
 
 ---
 
